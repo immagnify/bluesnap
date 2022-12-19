@@ -1,5 +1,6 @@
 {
     "conventionalCommits.scopes": [
-        "requirements.txt"
+        "requirements.txt",
+        "Pipfile"
     ]
 }
